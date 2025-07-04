@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan kalyan</h1>
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>, I'm Pavan Kalyan</h1>
 <h3 align="center">A passionate Java developer at Infinite Computer Solutions</h3>
 
 - 🔭 I specialize in Java and occasionally mess around with Blockchain.
