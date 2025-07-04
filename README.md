@@ -12,7 +12,7 @@
 <h2>💻 Tech Stack:</h2>
 
 <div align="center">
-  <img align="right" src="https://camo.githubusercontent.com/f65c741b95a320e7586bdc58c8d499eeb41a7d3cb0607c84f633dd8daf0809a0/68747470733a2f2f616e75726167626861726477616a2e6e65746c6966792e6170702f636f64696e676775792e676966" alt="Developer GIF" width="270"/>
+  <img align="right" src="https://camo.githubusercontent.com/f65c741b95a320e7586bdc58c8d499eeb41a7d3cb0607c84f633dd8daf0809a0/68747470733a2f2f616e75726167626861726477616a2e6e65746c6966792e6170702f636f64696e676775792e676966" alt="Developer GIF" width="350"/>
   
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
